@@ -1,0 +1,25 @@
+path: ../dataset
+train: images/train
+val: images/val
+test: 
+
+
+names:
+  0: Tran_Minh_Thanh
+  1: Phan_Viet_Hung
+  2: Trieu_Quoc_Anh
+  3: Tran_Truong_Giang
+  4: Tran_Duc_Manh
+  5: Ngo_Nguyen_Quang_Linh
+  6: Nguyen_Manh_Duy
+  7: Le_Thi_Ngoc_Bich
+  8: Nguyen_Van_Dat
+  9: Nguyen_Van_Huy
+  10: Nguyen_Hoa_Binh
+  11: Do_Ngoc_Trung
+  12: Nguyen_Manh_Dong
+  13: Nguyen_Nam_Cuong
+  14: Nguyen_Trung_Thanh
+  15: Le_Trong_Thanh_Tung
+  
+
